@@ -1,1 +1,2 @@
-# CodeForces_Writeups
+<h1>Introduction</h1><p>Hey there and welcome to my Codeforces section!</p><h1>About Me</h1><p>I'm all about working hard, learning new software development skills, and keeping everyone updated on my progress.
+As a beginner software developer, I'm always looking for new challenges to push myself to the next level.</p><h1>Purpose</h1><p>This section is a great opportunity for me to showcase my problem-solving skills, share my experience with others, and explore new developments in the field.</p><h1>Goals</h1><p>I can't wait to take on new challenges, solve complex problems, and continuously expand my skills and knowledge on this exciting journey.</p>
